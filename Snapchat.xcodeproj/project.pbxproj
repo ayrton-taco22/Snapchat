@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0F51372026686E39002EBB2B /* ElegirUsuarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F51371F26686E39002EBB2B /* ElegirUsuarioViewController.swift */; };
 		0F513725266877E5002EBB2B /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F513724266877E5002EBB2B /* Usuario.swift */; };
+		0F958939267038D6006FF9A7 /* CrearUsuarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F958938267038D6006FF9A7 /* CrearUsuarioViewController.swift */; };
 		0FDACD19265EC59D0086BA76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FDACD18265EC59D0086BA76 /* AppDelegate.swift */; };
 		0FDACD1B265EC59D0086BA76 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FDACD1A265EC59D0086BA76 /* SceneDelegate.swift */; };
 		0FDACD1D265EC59D0086BA76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FDACD1C265EC59D0086BA76 /* ViewController.swift */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		0F51371F26686E39002EBB2B /* ElegirUsuarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElegirUsuarioViewController.swift; sourceTree = "<group>"; };
 		0F513724266877E5002EBB2B /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
+		0F958938267038D6006FF9A7 /* CrearUsuarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrearUsuarioViewController.swift; sourceTree = "<group>"; };
 		0FDACD15265EC59D0086BA76 /* Snapchat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Snapchat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FDACD18265EC59D0086BA76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FDACD1A265EC59D0086BA76 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				0FF46C90266818C800FAA0AD /* SnapsViewController.swift */,
 				0FF46C9326681E5A00FAA0AD /* ImageViewController.swift */,
 				0F51371F26686E39002EBB2B /* ElegirUsuarioViewController.swift */,
+				0F958938267038D6006FF9A7 /* CrearUsuarioViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				0FF46C9426681E5A00FAA0AD /* ImageViewController.swift in Sources */,
 				0FDACD19265EC59D0086BA76 /* AppDelegate.swift in Sources */,
 				0FDACD1B265EC59D0086BA76 /* SceneDelegate.swift in Sources */,
+				0F958939267038D6006FF9A7 /* CrearUsuarioViewController.swift in Sources */,
 				0F51372026686E39002EBB2B /* ElegirUsuarioViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
